@@ -1,0 +1,12 @@
+.page-item.active .page-link {
+  background-color: #db3d24;
+}
+
+.add-quiz-btn {
+  background-color: #db3d24;
+  border-color: #db3d24;
+  color: #fff;
+  cursor: pointer;
+  -webkit-transition: all ease-in 0.3s;
+  transition: all ease-in 0.3s;
+}
